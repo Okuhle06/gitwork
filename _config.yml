@@ -1,0 +1,3 @@
+title: My Jekyll Test Site
+description: This is a simple Jekyll site used for GitHub Actions CI testing.
+theme: minima
